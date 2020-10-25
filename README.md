@@ -47,7 +47,7 @@ You also look at mean,max,min, std_dev and ratio of postivie to negative observa
 #### Pre-processing required
  * reducing the number of negative observation and increasing positive observation.
  * Normalizing the data
- * reducing dimensions by PCA
+ * Using dimensionality reduction algorithm like PCA
  
 # Feature Engineering
 
