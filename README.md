@@ -48,24 +48,6 @@ You also look at mean,max,min, std_dev and ratio of postivie to negative observa
  * reducing the number of negative observation and increasing positive observation.
  * Normalizing the data
  * Using dimensionality reduction algorithm like PCA
- 
-# Feature Engineering
-
-### Gaussian distribution
-
-
-
-### Linear Regression
-
-
-### Principal Components Analysis (PCA)
-
-
-
-### K-Means
-
-
-## Conclusion
 
 
 
